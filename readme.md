@@ -1,5 +1,7 @@
 # Worlddisplay.js
 
+## deprecated -> please use [voxel-mesh](https://github.com/quoteme/voxel-mesh)
+
 ### Intro
 Please read into what "[worldeditor](https://github.com/Quoteme/worldeditor)" is, on it's own dedicated github project page.
 This is the standalone optimized [worldeditor voxel map](https://github.com/Quoteme/worldeditor) viewer, that can be simpily included in a new three.js project.
